@@ -29,6 +29,9 @@ As a team captain or player, I want to see the following information about other
 As a team captain, I want to invite another team to a scrimmage.
 * (stretch/low-pri feature - may be better handled by a separate project)
 
+As a team captain/player, I want to be able to find subs/pickup for a single tournament
+* (stretch/low-pri feature - may be better handled by a separate project)
+
 As a team captain or a player, I want my team to be ranked against other teams so that we can show where we stand and so that we can track our performance over time.
 
 As a player, I want to be able to apply to join a team.
