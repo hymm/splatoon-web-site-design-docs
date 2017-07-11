@@ -37,13 +37,14 @@ Much of the info should have the option of being public or private.  Private dat
 * nico nico username
 * ikazok username
 
-### Team info
-* team status: free agent, inactive, on a team
+### Player History
+* team status: free agent, inactive, on a team, casual
+* current team
 * past teams
-* current teams
 * tournament history
   * could be read from battlefy, ect.  
-  * Might need manual entry for lan tournaments
+  * Might need manual entry for lan tournaments  
+* gameplay videos
 
 ### Fun Info
 * squid colusseum results?
@@ -53,7 +54,7 @@ Much of the info should have the option of being public or private.  Private dat
 * favorite modes
 * favorite maps
 
-Splatnet Data
+### Splatnet Data
 * rank
 * amount inked
 * hopefully much more
