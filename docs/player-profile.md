@@ -11,6 +11,7 @@ Much of the info should have the option of being public or private.  Private dat
 * times active
 * date joined site
 * competent weapons
+* switch friend code
 
 ### Account Links
 * discord account link
