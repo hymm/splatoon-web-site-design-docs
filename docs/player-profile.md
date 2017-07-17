@@ -27,7 +27,7 @@ Much of the info should have the option of being public or private.  Private dat
 * challonge account link
   * read past tourney participation
 
-### other usernames (show links to these sites)
+### other usernames/link (show links to these sites)
 * twitter username
 * youtube username
 * twitch username
@@ -36,6 +36,7 @@ Much of the info should have the option of being public or private.  Private dat
 * open rec username
 * nico nico username
 * ikazok username
+* personal discord server
 
 ### Player History
 * team status: free agent, inactive, on a team, casual
